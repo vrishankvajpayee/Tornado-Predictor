@@ -2,7 +2,7 @@
 Using python libraries such as numpy and pandas for the prediction of random variables.
 Well we can use the binomial distribution in NumPy to simulate this.
 Here we create an empty list and we create a number of potential tornado events by 
-asking the NumPy binomial function using our chance of tornado. 
+asking the NumPy binomial functions using our chance of tornado. 
 
 
 This process is called sampling the distribution.
